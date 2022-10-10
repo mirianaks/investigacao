@@ -1,18 +1,21 @@
 body{
-backgrund 
-
+backgrund: linear-gradient(to bottom, rgb(219, 26, 26), rgb(56, 240, 0));
 }
 
-.investigação{
-  width: 300px;
-margin-left: 40%;
-border: solid 5px black;
-}
+ h1  {
+ 
 
-h1 {
+
     color: black;
     text-align: center;
 }    
   
-  .centralizar{
-    text-align: center;
+  h2 {
+      color: black;
+      text-align: center;
+
+}
+
+#investigação{
+  color: black;
+}
