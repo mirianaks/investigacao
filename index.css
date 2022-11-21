@@ -1,21 +1,24 @@
 body{
-backgrund: linear-gradient(to bottom, rgb(219, 26, 26), rgb(56, 240, 0));
+background: linear-gradient(to bottom, rgb(177, 186, 230), rgb(142, 184, 223));
 }
 
  h1  {
  
 
 
-    color: black;
+    color: rgb(0, 0, 0);
     text-align: center;
 }    
   
   h2 {
-      color: black;
+      color: rgb(0, 0, 0);
       text-align: center;
 
 }
 
 #investigação{
-  color: black;
+  color: rgb(0, 0, 0);
+}
+.imagem {
+  margin-left: 50%;
 }
